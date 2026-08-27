@@ -1,2 +1,1 @@
-# IPI_Policy_Guardian_POC
-asdfasf
+Always use echo with -n flag.
